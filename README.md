@@ -1,2 +1,2 @@
 # Project-Euler
-https://projecteuler.net/    Solvin problems
+https://projecteuler.net/    Solvin problems by Python
